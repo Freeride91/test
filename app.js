@@ -1,3 +1,3 @@
 console.log('hello');
 
-console.log('mizu')
+console.log('mizu');
